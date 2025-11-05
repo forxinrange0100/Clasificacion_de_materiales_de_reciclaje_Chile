@@ -25,6 +25,8 @@ Los Dataset y Archivos de modelos se encuentran en Kaggle.
 🇬🇧 The file `Materiales_Nch3322.zip` contains the dataset ready for training.
 The datasets and model files are available on Kaggle.
 
+**Kaggle**: https://www.kaggle.com/datasets/olverarce/dataset-materiales-de-reciclaje-chile?select=Materiales_Nch3322
+
 ![Dataset Kaggle](kaggle.png)
 
 ## Licencia / License
